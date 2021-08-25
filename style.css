@@ -1,0 +1,16 @@
+.containerMine {
+  padding: 1rem 0;
+  margin-inline: auto;
+  width: min(70%, 50rem);
+}
+.icons{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.icons a {
+  text-decoration: none;
+}
+.icons a i {
+  font-size: 1rem;
+}
